@@ -1,4 +1,7 @@
-# Analysis-projectRegional Sales Data Analysis
+# Analysis-project
+Compilation of data analysis projects
+
+Regional Sales Data Analysis
 
 Working with sales data in excel and creating an interactive dashboard in Power BI.
 
